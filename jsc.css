@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://1.bp.blogspot.com/-1KeKslcXXxA/XyOl__H-f7I/AAAAAAAA27I/hMtAUf9P4oU6pMJyCQeqxUbKyn5q11DuACLcBGAsYHQ/s2560/nebula_night_starry_sky_178907_3840x2160.jpg");
+    background-size: cover;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: cornsilk;
+}
